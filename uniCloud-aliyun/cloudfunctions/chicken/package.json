@@ -1,0 +1,7 @@
+{
+  "name": "chicken",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
