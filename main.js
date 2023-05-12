@@ -14,6 +14,6 @@ Vue.prototype.$util = util
 
 const app = new Vue({
 	store,
-    ...App
+	...App
 })
 app.$mount()
